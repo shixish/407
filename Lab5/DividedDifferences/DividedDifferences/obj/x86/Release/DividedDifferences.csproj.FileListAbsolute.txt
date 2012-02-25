@@ -1,0 +1,9 @@
+J:\Users\drew\Documents\My Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\bin\Release\DividedDifferences.exe
+J:\Users\drew\Documents\My Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\bin\Release\DividedDifferences.pdb
+J:\Users\drew\Documents\My Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\obj\x86\Release\ResolveAssemblyReference.cache
+J:\Users\drew\Documents\My Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\obj\x86\Release\DividedDifferences.exe
+J:\Users\drew\Documents\My Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\obj\x86\Release\DividedDifferences.pdb
+J:\Users\drew\Documents\My Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\bin\Release\DividedDifferences.exe.manifest
+J:\Users\drew\Documents\My Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\bin\Release\DividedDifferences.application
+J:\Users\drew\Documents\My Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\obj\x86\Release\DividedDifferences.exe.manifest
+J:\Users\drew\Documents\My Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\obj\x86\Release\DividedDifferences.application

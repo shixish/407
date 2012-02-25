@@ -15,8 +15,8 @@ public class lab7 {
 		System.out.print("Please enter an x value: ");
 		double e = Double.parseDouble(br.readLine());
 		try {
-			System.out.format("sine(%f)=%.12f \t Math.sin(%f)=%.12f \t diff=%s\n", e, m.sine(e), e, Math.sin(e), m.sine(e)-Math.sin(e));
-			System.out.format("cosine(%f)=%.12f \t Math.cos(%f)=%.12f \t diff=%s\n", e, m.cosine(e), e, Math.cos(e), m.cosine(e)-Math.cos(e));
+			System.out.format("   sine(%f)=%.12f \t Math.sin(%f)=%.12f \t diff=%s\n", e, m.sine(e), e, Math.sin(e), m.sine(e)-Math.sin(e));
+			System.out.format(" cosine(%f)=%.12f \t Math.cos(%f)=%.12f \t diff=%s\n", e, m.cosine(e), e, Math.cos(e), m.cosine(e)-Math.cos(e));
 			System.out.format("tangent(%f)=%.12f \t Math.tan(%f)=%.12f \t diff=%s\n", e, m.tangent(e), e, Math.tan(e), m.tangent(e)-Math.tan(e));
 		} catch (Exception e1) {
 			System.out.print(e1);

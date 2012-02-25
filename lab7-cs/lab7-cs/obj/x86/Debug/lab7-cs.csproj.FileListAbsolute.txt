@@ -1,0 +1,5 @@
+J:\Users\drew\Documents\My Dropbox\School\407\lab7-cs\lab7-cs\bin\Debug\lab7-cs.exe
+J:\Users\drew\Documents\My Dropbox\School\407\lab7-cs\lab7-cs\bin\Debug\lab7-cs.pdb
+J:\Users\drew\Documents\My Dropbox\School\407\lab7-cs\lab7-cs\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Users\drew\Documents\My Dropbox\School\407\lab7-cs\lab7-cs\obj\x86\Debug\lab7-cs.exe
+J:\Users\drew\Documents\My Dropbox\School\407\lab7-cs\lab7-cs\obj\x86\Debug\lab7-cs.pdb

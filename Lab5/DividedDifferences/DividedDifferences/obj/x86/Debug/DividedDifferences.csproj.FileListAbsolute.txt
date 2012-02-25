@@ -1,0 +1,19 @@
+C:\Users\Andrew\AppData\Local\Temporary Projects\DividedDifferences\bin\Debug\DividedDifferences.exe
+C:\Users\Andrew\AppData\Local\Temporary Projects\DividedDifferences\bin\Debug\DividedDifferences.pdb
+C:\Users\Andrew\AppData\Local\Temporary Projects\DividedDifferences\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\AppData\Local\Temporary Projects\DividedDifferences\obj\x86\Debug\DividedDifferences.exe
+C:\Users\Andrew\AppData\Local\Temporary Projects\DividedDifferences\obj\x86\Debug\DividedDifferences.pdb
+C:\Users\Andrew\Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\obj\x86\Debug\DividedDifferences.exe
+C:\Users\Andrew\Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\obj\x86\Debug\DividedDifferences.pdb
+C:\Users\Andrew\Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\bin\Debug\DividedDifferences.exe
+C:\Users\Andrew\Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\bin\Debug\DividedDifferences.pdb
+C:\Users\Andrew\Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Users\drew\Documents\My Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\obj\x86\Debug\DividedDifferences.exe
+J:\Users\drew\Documents\My Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\obj\x86\Debug\DividedDifferences.pdb
+J:\Users\drew\Documents\My Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\bin\Debug\DividedDifferences.exe
+J:\Users\drew\Documents\My Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\bin\Debug\DividedDifferences.pdb
+J:\Users\drew\Documents\My Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Users\drew\Documents\My Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\bin\Debug\DividedDifferences.exe.manifest
+J:\Users\drew\Documents\My Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\bin\Debug\DividedDifferences.application
+J:\Users\drew\Documents\My Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\obj\x86\Debug\DividedDifferences.exe.manifest
+J:\Users\drew\Documents\My Dropbox\School\407\Lab5\DividedDifferences\DividedDifferences\obj\x86\Debug\DividedDifferences.application

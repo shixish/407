@@ -65,7 +65,7 @@ public class TridiagMatrix {
 	public double tangent(double e) throws Exception{
 		double sin = sine(e), cos = cosine(e);
 		if (cos == 0) throw new Exception("Division by zero. Tangent is undefined here. \n");
-		return sine(e)/cosine(e);
+		return sin/cos;
 	}
 	
 	private void solveMatrix(){
