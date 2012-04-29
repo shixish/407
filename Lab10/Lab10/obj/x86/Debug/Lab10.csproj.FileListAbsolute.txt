@@ -1,0 +1,23 @@
+C:\Users\Andrew\AppData\Local\Temporary Projects\Lab10\bin\Debug\Lab10.exe
+C:\Users\Andrew\AppData\Local\Temporary Projects\Lab10\bin\Debug\Lab10.pdb
+C:\Users\Andrew\AppData\Local\Temporary Projects\Lab10\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\AppData\Local\Temporary Projects\Lab10\obj\x86\Debug\Lab10.exe
+C:\Users\Andrew\AppData\Local\Temporary Projects\Lab10\obj\x86\Debug\Lab10.pdb
+C:\Users\Andrew\AppData\Local\Temporary Projects\Lab10\bin\Debug\Extreme.LinearAlgebra.Net40.x64.Parallel.dll
+C:\Users\Andrew\AppData\Local\Temporary Projects\Lab10\bin\Debug\Extreme.LinearAlgebra.Net40.x64.Serial.dll
+C:\Users\Andrew\AppData\Local\Temporary Projects\Lab10\bin\Debug\Extreme.LinearAlgebraSP.Net40.x64.Parallel.dll
+C:\Users\Andrew\AppData\Local\Temporary Projects\Lab10\bin\Debug\Extreme.LinearAlgebraSP.Net40.x64.Serial.dll
+C:\Users\Andrew\AppData\Local\Temporary Projects\Lab10\bin\Debug\Extreme.SignalProcessing.Net40.x64.Parallel.dll
+C:\Users\Andrew\AppData\Local\Temporary Projects\Lab10\bin\Debug\Extreme.SignalProcessing.Net40.x64.Serial.dll
+C:\Users\Andrew\AppData\Local\Temporary Projects\Lab10\bin\Debug\Extreme.SignalProcessingSP.Net40.x64.Parallel.dll
+C:\Users\Andrew\AppData\Local\Temporary Projects\Lab10\bin\Debug\Extreme.SignalProcessingSP.Net40.x64.Serial.dll
+C:\Users\Andrew\Dropbox\School\407\Lab10\Lab10\obj\x86\Debug\Lab10.exe
+C:\Users\Andrew\Dropbox\School\407\Lab10\Lab10\obj\x86\Debug\Lab10.pdb
+C:\Users\Andrew\Dropbox\School\407\Lab10\Lab10\bin\Debug\Lab10.exe
+C:\Users\Andrew\Dropbox\School\407\Lab10\Lab10\bin\Debug\Lab10.pdb
+C:\Users\Andrew\Dropbox\School\407\Lab10\Lab10\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Users\drew\Documents\My Dropbox\School\407\Lab10\Lab10\obj\x86\Debug\Lab10.exe
+J:\Users\drew\Documents\My Dropbox\School\407\Lab10\Lab10\obj\x86\Debug\Lab10.pdb
+J:\Users\drew\Documents\My Dropbox\School\407\Lab10\Lab10\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Users\drew\Documents\My Dropbox\School\407\Lab10\Lab10\bin\Debug\Lab10.exe
+J:\Users\drew\Documents\My Dropbox\School\407\Lab10\Lab10\bin\Debug\Lab10.pdb
